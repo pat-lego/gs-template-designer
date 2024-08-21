@@ -1,0 +1,30 @@
+{
+  "name": "com.adobe.genstudio.support",
+  "version": "1.0.0",
+  "description": "Template designer for GenStudio",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pat-lego/gs-template-designer.git"
+  },
+  "keywords": [
+    "GenStudio",
+    "Templates",
+    "Handlebars"
+  ],
+  "author": "Patrique Legault",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pat-lego/gs-template-designer/issues"
+  },
+  "homepage": "https://github.com/pat-lego/gs-template-designer#readme",
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
